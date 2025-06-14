@@ -28,28 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vela-poojitha&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vela-poojitha&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🔗 [Hostel Management System](https://github.com/vela-poojitha/HostelManagementSystem)
-- 📘 [Library Management System](https://github.com/vela-poojitha/LibraryManagementSystem)
-- 🔐 [Blockchain-Based Forensics Architecture](https://github.com/vela-poojitha/BlockchainForensics)
-- 📊 [Weather & Pollution Predictor App](https://github.com/vela-poojitha/AirPollutionPredictor)
-
----
-
 ## 🏆 Achievements & Goals
 
 - 📃 Working on IEEE-style research publications
@@ -74,9 +52,9 @@
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vela-poojitha)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/velapoojitha)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velapoojitha@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vela-poojitha)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/velapoojitha)
 
 ---
 
